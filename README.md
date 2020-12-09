@@ -1,1 +1,1 @@
-# atividade-em-aula
+# lista-exercicios-js
